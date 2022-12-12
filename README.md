@@ -14,7 +14,19 @@ While preparing this project, a few assumptions were made which are as follows.
 5. Currently, the pay fees button is disabled.
 
 
-
+Functionality Related:
+1. The user first registers themselves using phone number as a primary key.
+2. This stage also checks for the user's age and displays an appropriate message if age is not as expected.
+3. After registering, the user is directed to their dashboard.
+4. At the dashboard, all the information regarding the user is shown.
+5. Also, their is an option present to change the batch for the next month of the current user.
+6. Returning users can login into the system using their phone number and password.
+7. After login, the users are directed to their dashboard.
+8. SQL database was used.
+9. Two tuples were created for the member information and the next month's batch information for every member.
 
 
 The full deployed project can be found here: https://yogaregisteration.onrender.com/
+
+**E-R Diagram**
+![image](https://user-images.githubusercontent.com/59289916/207110187-29a55ab0-b482-4705-9368-cbd1cfd87787.png)
