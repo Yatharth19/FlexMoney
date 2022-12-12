@@ -26,6 +26,9 @@ Functionality Related:
 9. Two tuples were created for the member information and the next month's batch information for every member.
 
 
+Node js was used in the backend along with ejs templates in the frontend.
+The project was deployed on render.com
+
 The full deployed project can be found here: https://yogaregisteration.onrender.com/
 
 **E-R Diagram**
